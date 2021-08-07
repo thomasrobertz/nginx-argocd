@@ -1,0 +1,9 @@
+apiVersion: v1
+name: nginx-deployment
+description: Install Nginx deployment manifests Ex. 17
+keywords:
+- nginx 
+version: 1.0.0
+maintainers:
+- name: thomasrobertz
+  email: thomas.robertz@googlemail.com 
