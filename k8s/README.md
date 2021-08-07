@@ -1,0 +1,1 @@
+These files are the k8s CRDs and don't need to be checked in, I keep them for reference.
